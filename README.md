@@ -4,19 +4,19 @@
 
 1.Camera自定义相机案例
 ------------
-![MultiMediaSample](/image/camera3.gif)
+![MultiMediaSample](/images/camera3.gif)
 
 2.新API android.hardware.camera2自定义相机
 ------------
-![MultiMediaSample](/image/camera3.gif)
+![MultiMediaSample](/images/camera3.gif)
 
 3.一种守护进程案例（如用于后台常驻音乐，消息推送等场景）
 ------------
-![MultiMediaSample](/image/guard3.gif)
+![MultiMediaSample](/images/guard3.gif)
 
 4.MediaPlayer播放网络视频案例
 ------------
-![MultiMediaSample](/image/mediaplayer.png)
+![MultiMediaSample](/images/mediaplayer.png)
 
 ####欢迎关注我的个人公众号，android 技术干货，问题深度总结，FrameWork源码解析，插件化研究，最新开源项目推荐
 ![这里写图片描述](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
