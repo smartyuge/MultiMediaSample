@@ -18,6 +18,10 @@
 ------------
 ![MultiMediaSample](/images/mediaplayer.png)
 
+4.MediaCodec进行codec视频案例
+------------
+![MultiMediaSample](/images/mediacodec.gif)
+
 ####欢迎关注我的个人公众号，android 技术干货，问题深度总结，FrameWork源码解析，插件化研究，最新开源项目推荐
 ![这里写图片描述](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
 
